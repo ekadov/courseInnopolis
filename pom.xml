@@ -7,6 +7,10 @@
     <groupId>org.example</groupId>
     <artifactId>untitled4</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>properties</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
